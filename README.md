@@ -53,7 +53,7 @@ A responsive personal portfolio website created using HTML, CSS, and JavaScript.
 
 Visit my live portfolio:
 
-**https://YOUR-USERNAME.github.io/harini-portfolio/**
+** https://mharini18122005-ux.github.io/mharini-portfolio/**
 
 ## 📬 Contact
 
